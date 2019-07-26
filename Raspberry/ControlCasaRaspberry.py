@@ -66,4 +66,3 @@ while True:
     else:
        board.digital[ventilator].write(0)
        board.digital[enB].write(0)
-ss
